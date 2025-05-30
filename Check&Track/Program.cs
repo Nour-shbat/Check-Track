@@ -6,7 +6,7 @@ using System.Windows.Forms;
 
 namespace Check_Track
 {
-    // Hello
+    // Hello ....
     static class Program
     {
         /// <summary>
